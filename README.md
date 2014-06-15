@@ -1,3 +1,3 @@
-#greatagent*(原名：wwqgtxx-goagent)
+#greatagent(原名：wwqgtxx-goagent)
 
-<https://github.com/greatagent/greatagent/wiki>
+# <https://github.com/greatagent/greatagent/wiki>
